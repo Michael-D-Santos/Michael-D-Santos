@@ -3,6 +3,8 @@ I program, I do some stuff, and that's about it.
 - Contact at michaeltheexpert@protonmail.com
 
 ![Michael-D-Santos/'s GitHub stats](https://github-readme-stats.vercel.app/api?username=Michael-D-Santos&show_icons=true&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Michael-D-Santos\&layout=donut)
+
 
 <!---
 Michael-D-Santos/Michael-D-Santos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
